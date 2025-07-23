@@ -33,10 +33,7 @@
   Computer Hardware Basics (Cisco), 2025
 </p>
 
-My ✨Projects✨ 👇
-
-
-
+<h3>**My ✨Projects✨ 👇**</h3>
 
 <!--
 **abielbalbuena43/abielbalbuena43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
