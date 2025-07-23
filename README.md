@@ -33,7 +33,24 @@
   Computer Hardware Basics (Cisco), 2025
 </p>
 
-<h3>**My ✨Projects✨ 👇**</h3>
+<h3>My ✨Projects✨ </h3>
+<p>
+  
+**Web-Based Library Management System FEB 2024 - NOV 2024**
+Led the group for our Capstone Project in developing a webbased library management system for a high school in
+Antipolo city. The system includes features such as book
+cataloging, user registration, borrowing and return tracking,
+and an administrative dashboard for library staff.
+Technologies Used: PHP, MYSQL, HTML, CSS
+
+**Web-Based Inventory Management System**
+Designed and developed a web-based inventory management
+system during my 500 hour On the Job Training for Malaya
+Business Insight Intramuros. It tracks the inventory of the
+company’s IT department featuring statistics on the dashboard
+and allowed exporting of current inventory information.
+Technologies Used: PHP, MYSQL, HTML, CSS
+</p>
 
 <!--
 **abielbalbuena43/abielbalbuena43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
