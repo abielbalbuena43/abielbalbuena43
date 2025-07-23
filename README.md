@@ -45,7 +45,7 @@ and an administrative dashboard for library staff.
 
 Technologies Used: PHP, MYSQL, HTML, CSS
 
-**Web-Based Inventory Management System**
+**Web-Based Inventory Management System JAN 2025 - MAR 2025**
 
 Designed and developed a web-based inventory management
 system during my 500 hour On the Job Training for Malaya
