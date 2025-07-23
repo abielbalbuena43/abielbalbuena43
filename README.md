@@ -26,6 +26,13 @@
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
+<h3>Certifications</h3>
+<p>
+  IT Specialist - Databases (Certiport), 2024<br>
+  IT Specialist - Cybersecurity (Certiport), 2025<br>
+  Computer Hardware Basics (Cisco), 2025
+</p>
+
 
 
 
