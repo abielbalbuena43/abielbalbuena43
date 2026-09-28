@@ -20,12 +20,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3>Currently practicing</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-
 <h3>Certifications</h3>
 <p>
   IT Specialist - Databases (Certiport), 2024<br>
